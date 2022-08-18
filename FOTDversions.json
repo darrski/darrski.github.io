@@ -1,9 +1,9 @@
 {
 	"versions": [{
-			"Version": "3.0",
-			"URL": "https:\/\/www.icloud.com\/shortcuts\/e16a419b89ea4339a22776aa9bd80148",
-			"Release": "August 17, 2022",
-			"Notes": "My previous method of getting the Flavor of the Day, via Google Calendar HTML, failed me. A new Github page has been configured, and the Flavor of the Day is now sourced from a REST API on that page."
+			"Version": "3.1",
+			"URL": "https:\/\/www.icloud.com\/shortcuts\/64c31188eda44d28b723f8bc403bdfaa",
+			"Release": "August 18, 2022",
+			"Notes": "RoutineHub's uptime has become a bit unreliable, so the Shortcut has been updated so that it checks for new versions from Github. I'll continue to maintain RoutineHub, as well, and may move the version checker function back to RoutineHub if performance improves."
 		},
 		{
 			"Version": "3.0",
