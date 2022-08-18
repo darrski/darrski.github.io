@@ -1,5 +1,5 @@
-{
-  "flavors": [{"date": "08012022", "flavor":"FOTD: Sweet Cream"},
+{"flavors": 
+[{"date": "08012022", "flavor":"FOTD: Sweet Cream"},
 {"date": "08022022", "flavor":"FOTD: Peanut Butter"},
 {"date": "08032022", "flavor":"FOTD: Banana Pudding"},
 {"date": "08042022", "flavor":"FOTD: Pistachio"},
@@ -30,7 +30,6 @@
 {"date": "08292022", "flavor":"FOTD: Butter Pecan"},
 {"date": "08302022", "flavor":"FOTD: Jamocha"},
 {"date": "08312022", "flavor":"FOTD: Key Lime"}],
-  "versions":
-    { "version": "2.4", "url": "icloud.com", "description": "Here is a new version of the Flavor of the Day Shortcut."
-  }
+"versions":
+    { "version": "2.4", "url": "icloud.com", "description": "Here is a new version of the Flavor of the Day Shortcut."}
 }
