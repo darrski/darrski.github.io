@@ -1,5 +1,10 @@
 {
 	"versions": [{
+			"Version": "3.2",
+			"URL": "https:\/\/www.icloud.com\/shortcuts\/79a5cbbba1e9437bb615af76b20b8b8a",
+			"Release": "August 19, 2022",
+			"Notes": "Important update. I noticed a flaw in the new API logic that would have made it difficult to add the next month's flavor before the month begins. This update should accommodate that scenario, gracefully, going forward."
+		},{
 			"Version": "3.1",
 			"URL": "https:\/\/www.icloud.com\/shortcuts\/64c31188eda44d28b723f8bc403bdfaa",
 			"Release": "August 18, 2022",
