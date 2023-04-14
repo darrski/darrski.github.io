@@ -1,5 +1,10 @@
 {
 	"versions": [{
+			"Version": "4.2",
+			"URL": "https:\/\/www.icloud.com\/shortcuts\/4fc71e10dc9c456aab54ffee1f5dc864",
+			"Release": "April 14, 2023",
+			"Notes": "A considerable flaw was spotted that was limiting the success rate if a user was seeking a flavor for date over 1 year ago. I imagine few are going back that far, if any, but I went ahead and fixed it anyway. This change also warranted an adjustment within the flow related to holidays. Lastly, made minor tweaks to verbiage."
+		},{
 			"Version": "4.0",
 			"URL": "https:\/\/www.icloud.com\/shortcuts\/bec050c48e564bcaa9f8d1380434e94f",
 			"Release": "December 3, 2022",
