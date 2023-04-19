@@ -1,5 +1,10 @@
 {
 	"versions": [{
+			"Version": "2.0",
+			"URL": "https:\/\/www.icloud.com\/shortcuts\/1f3b9441df6b42128c1275c77d1f0ede",
+			"Release": "April 18, 2023",
+			"Notes": "Version 2 introduces a Work option, allowing you to save receipts to iCloud Drive instead of the Photos app. Further, you can enable both Work (iCloud Drive) and Personal (Photos app) to be used each time."
+		},{
 			"Version": "1.0",
 			"URL": "https:\/\/www.icloud.com\/shortcuts\/0a673d6f2ac44047ae4ea45ec2cea1ac",
 			"Release": "April 8, 2023",
