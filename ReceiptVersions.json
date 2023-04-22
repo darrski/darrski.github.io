@@ -1,5 +1,10 @@
 {
 	"versions": [{
+			"Version": "2.1",
+			"URL": "https:\/\/www.icloud.com\/shortcuts\/724fcbc0e6da4ff5b3ef807c68c9cfcf",
+			"Release": "April 22, 2023",
+			"Notes": "Version 2.1 adds comments to indicate the purpose of the text fields within, which control the desired save method when the shortcut is ran. Also, the Current Date (yyyyMMd) is now applied to the beginning of the receipt file name when work (iCloud Drive) method is used to save. Lastly, a new prompt will surface in the work method (iCloud Drive) allowing the user to enter the name of the merchant. The filename will then include the merchant name appended, resulting in each receipt in the folder following this format: yyyyMMdd-MerchantName."
+		},{
 			"Version": "2.0",
 			"URL": "https:\/\/www.icloud.com\/shortcuts\/1f3b9441df6b42128c1275c77d1f0ede",
 			"Release": "April 18, 2023",
