@@ -3,7 +3,7 @@
 			"Version": "4.3",
 			"URL": "https:\/\/www.icloud.com\/shortcuts\/3fa516d786754f6a8577710bcaf48fe0",
 			"Release": "May 4, 2023",
-			"Notes": "The shorcut has a function in it that counts the each time the shortcut is ran, using CountAPI.xyz. That resource has been causing some delays, so it has been disabled. I'll probably remove it altogether in the future because I don't really need to know that nobody uses this shortcut."
+			"Notes": "The shortcut has a function in it that counts the each time the shortcut is ran, using CountAPI.xyz. That resource has been causing some delays, so it has been disabled. I'll probably remove it altogether in the future because I don't really need to know that nobody uses this shortcut."
 		},{
 			"Version": "4.2",
 			"URL": "https:\/\/www.icloud.com\/shortcuts\/4fc71e10dc9c456aab54ffee1f5dc864",
